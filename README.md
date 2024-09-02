@@ -13,8 +13,8 @@ Build a financial commentator for your finance team using watsonx and Planning A
 6. Run fin com the bot `python fincom.py`
 
 </br>
-# Other References 🔗
-ToDo...maybe later
+# Other References 🔗 
+- ToDo...maybe later
 
 # Who, When, Why?
 
