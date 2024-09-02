@@ -14,8 +14,7 @@ Build a financial commentator for your finance team using watsonx and Planning A
 
 </br>
 # Other References 🔗
-
-<p>-<a href="github.com/Lumiwealth/lumibot)">Lumibot</a>:trading bot library, makes lifecycle stuff easier .</p>
+ToDo...maybe later
 
 # Who, When, Why?
 
